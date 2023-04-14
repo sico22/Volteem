@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Volteem</string>
+    <string name="title_activity_login">Volteem</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_register">Register</string>
+    <string name="exception_cause_email">email</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="prompt_firstname">Firstname</string>
+    <string name="prompt_lastname">Lastname</string>
+    <string name="prompt_birthdate">Birthdate</string>
+    <string name="prompt_phone_number">Phone Number</string>
+    <string name="prompt_city">City</string>
+    <string name="prompt_gender">Gender</string>
+    <string name="button_register">REGISTER</string>
+    <string name="button_back">BACK</string>
+    <string name="no_internet">\"Check internet connection\"</string>
+    <string name="logout_message_title">Log out</string>
+    <string name="log_out_message">Are you sure you want to log out?</string>
+    <string name="logout_yes">Yes</string>
+    <string name="logout_no">No</string>
+    <string name="item_profile">Profile</string>
+    <string name="profile_feedback">Feedback</string>
+    <string name="item_log_out">Log out</string>
+    <string name="item_settings">Settings</string>
+    <string name="item_events">Events</string>
+    <string name="notifications">Notifications</string>
+    <string name="item_news">News</string>
+    <string name="no_news">You have no news.</string>
+    <string name="register_add_profile_photo">Add profile photo</string>
+    <string name="no_events">No events to display</string>
+    <string name="no_ngos">No NGOs to display for the moment</string>
+    <string name="about_text">This is about Volteem. About us. If you want to be part of the best project contact us</string>
+    <string name="item_about">About</string>
+    <string name="profile_no_events">You didn\'t participate at any events. You should try some of our events!</string>
+    <string name="profile_adapter_no_feedback">No feedback</string>
+    <string name="view_image">View image</string>
+    <string name="change_image">Change image</string>
+    <string name="title_create_event_activity">Create Event</string>
+    <string name="header_title">Volteem</string>
+    <string name="type_prompt">Type</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="are_you_sure_message">Are you sure you want to leave this page? Changes you\'ve made will not be saved.</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="allow_storge_permission">Please allow storage permission</string>
+    <string name="set_permission">Set Permission</string>
+    <string name="ngos">NGOs</string>
+    <string name="filter">Filters</string>
+    <string name="search">Search</string>
+    <string name="apply_filters">Apply</string>
+    <string name="event_register_disclaimer">Registering to an event is an important responsability. If you leave the event further on, you will gain a bad reputation.</string>
+    <string name="type">Type</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete event</string>
+    <string name="no_reg_volunteers">No new volunteers.</string>
+    <string name="accept_volunteer">Accept</string>
+    <string name="no_feedback">This user has no feedback.</string>
+
+</resources>
